@@ -18,7 +18,7 @@ I am Shashi Jha, a passionate and creative AI developer from [🇮🇳](https://
 
 • 📫 How to reach me iamsj2022@gmail.com or https://www.linkedin.com/in/shashi-jha-297a4b1a5/ 
 
-• ⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service -->> [Larry Page], Google Co-founder (https://en.wikipedia.org/wiki/Larry_Page)
+• ⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service -->> [LARRY PAGE](https://en.wikipedia.org/wiki/Larry_Page), Google Co-founder 
 
 
 
