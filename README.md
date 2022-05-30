@@ -4,7 +4,7 @@
 
 # Hi, I'm Shashi! 👋
 
-I am Shashi Jha, a passionate and creative AI developer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in DevOps & AI . I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
+I am Shashi Jha, a passionate and creative Data Scientist & Machine learning Engineeer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in DevOps & AI . I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖
 
 • 👨‍💻 I’m currently Working as a Customer Service representative @ [CONCENTRIX](https://www.concentrix.com/)
 
