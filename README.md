@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Shashi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Shashi](https://ritesh.cloud), am Shashi Jha, a passionate Data Science Enthusiast from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in DevOps & AI . I like automating things, building pipelines, exploring scalability problems and improving model efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖 .
+I am [Shashi](), a passionate Data Science Enthusiast from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp; with a strong interest in DevOps & AI . I like automating things, building pipelines, exploring scalability problems and improving model efficiency and performance. I am a Strong Advocate for 📜 open source, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation and Automation 🤖 .
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsj2022&theme=dracula" alt="iamsj2022" /></p>
 
