@@ -45,6 +45,7 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
     <img title="Pytorch" alt="Pytorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="70" height="50" />
     <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="70" height="50" />
     <img title="Tensorflow" alt="Tensorflow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="70" height="50" />
+    <img title="PowerBI" alt="PowerBI" src="https://raw.githubusercontent.com/iamsj2022/iamsj2022/main/power-bi-vector-logo-2022.png" width="70" height="50" />
     <img title="Anaconda" alt="Conda" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="70" height="50" />
     <img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="70" height="50" />
     <img title="kubernetes" alt="kubernete" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="70" height="50" />
