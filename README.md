@@ -59,6 +59,7 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
     <img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="100" height="60" />
     <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
+	<img title="Figma" alt="Figma" src="https://raw.githubusercontent.com/iamsj2022/iamsj2022/main/600px-Figma-logo.svg.png" width="40" height="40" />
 
 
 
