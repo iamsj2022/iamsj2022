@@ -21,7 +21,7 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 
 ``` markdown
 
-⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service .</i>
+⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service .
 		--> LARRY PAGE , Google Co-founder.
 
 ```` 
