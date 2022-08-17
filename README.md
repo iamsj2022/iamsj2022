@@ -19,7 +19,7 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 
 • 📫 How to reach me iamsj2022@gmail.com or https://www.linkedin.com/in/shashi-jha-297a4b1a5/ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsj2022&label=Profile%20views&color=0e75b6&style=flat" alt="iamsj2022" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsj2022&label=Profile%20views&color=0e75b6&style=dracula" alt="iamsj2022" /> </p>
 
 
 ``` markdown
