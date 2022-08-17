@@ -19,14 +19,12 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 
 • 📫 How to reach me iamsj2022@gmail.com or https://www.linkedin.com/in/shashi-jha-297a4b1a5/ 
 
+``` markdown
 
-<hr>
-<p align="left">
-   <i>⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service .</i>
-<br>
-    
-[LARRY PAGE](https://en.wikipedia.org/wiki/Larry_Page), Google Co-founder.
+⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service .</i>
+		--> LARRY PAGE , Google Co-founder.
 
+```` 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsj2022&label=Profile%20views&color=0e75b6&style=flat" alt="iamsj2022" /> </p>
 
