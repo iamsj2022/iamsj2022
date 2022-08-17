@@ -19,6 +19,9 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 
 • 📫 How to reach me iamsj2022@gmail.com or https://www.linkedin.com/in/shashi-jha-297a4b1a5/ 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsj2022&label=Profile%20views&color=0e75b6&style=flat" alt="iamsj2022" /> </p>
+
+
 ``` markdown
 
 ⚡ Fun fact :-- The Goal of AI is to Give Better Customer Service .
@@ -26,13 +29,11 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 
 ```` 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsj2022&label=Profile%20views&color=0e75b6&style=flat" alt="iamsj2022" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsj2022" alt="iamsj2022" /></a> </p>
 
+<h3 align="left">Languages and Tools:</h3>
 
-
-### My skills include
-
-<p align="center">
+<p align="centre"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
@@ -57,7 +58,7 @@ I am currently working as a Customer Service Representative @[Concentrix](https:
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
     <img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="100" height="60" />
     <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
-	<img title="Figma" alt="Figma" src="https://raw.githubusercontent.com/iamsj2022/iamsj2022/main/600px-Figma-logo.svg.png" width="40" height="40" />
+	<img title="Figma" alt="Figma" src="https://raw.githubusercontent.com/iamsj2022/iamsj2022/main/600px-Figma-logo.svg.png" width="40" height="40" /> </p>
 
 
 
